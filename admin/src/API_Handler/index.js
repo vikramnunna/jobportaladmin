@@ -1,6 +1,7 @@
 import axios from "axios";
 
-export const serverUrl = "http://localhost:80/api";
+//export const serverUrl = "http://localhost:80/api";
+export const serverUrl = "https://backend2-gzlx.onrender.com/api";
 // export const serverUrl = "http://192.168.1.4:80/api";
 // export const serverUrl = "http://65.0.107.191/api";
 
