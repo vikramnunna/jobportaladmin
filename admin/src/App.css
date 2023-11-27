@@ -1,0 +1,13 @@
+.font-bold {
+  font-weight: bold !important;
+}
+h2.section-title {
+  font-size: 40px;
+  font-weight: 700;
+}
+a,
+a * {
+  /* color: #000; */
+  text-decoration: none !important;
+  cursor: pointer;
+}

@@ -1,0 +1,40 @@
+.dashboard_outer_div {
+  background-color: #3091f905;
+  padding: 30px;
+  border-radius: 5px;
+}
+.upper_heading {
+  font-size: 1.5rem !important;
+  font-weight: 600 !important;
+  text-align: start;
+}
+.upper_paragraph {
+  color: rgb(83, 82, 82);
+  text-align: start;
+}
+.propert_card_outerdiv {
+  background-color: #3091f9;
+  border-radius: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 20px;
+}
+.property_icon_outergrid {
+  text-align: center !important;
+}
+.cards_outer_grid {
+  margin-top: 15px !important;
+}
+.cards_dynamic_value {
+  text-align: end !important;
+  padding-right: 20px;
+}
+@media screen and (max-width: 600px) {
+  .cards_outer_grid {
+    display: flex;
+    justify-content: space-around !important;
+  }
+  .property_icon_outergrid {
+    text-align: start !important;
+  }
+}
